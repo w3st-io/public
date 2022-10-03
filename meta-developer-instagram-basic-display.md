@@ -1,14 +1,16 @@
-# Prerequisites
+# How to Set Up Instagram Basic Display
+
+## Prerequisites
 
 - Must have an app set up under facebook developer
 - Must have “Instagram Basic Display” product under app (Only on consumer app)
 
-# Keep In Mind
+## Keep In Mind
 
 - The Instagram tokens must be renewed by making a request to the following:<br>
 https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${access_token}
 
-# Guide
+## Guide
 
 1. Navigate to developers.facebook.com
 	- Select the app
