@@ -5,11 +5,6 @@
 - Must have an app (with type "consumer") created under a [Meta Developers](https://developers.facebook.com/) account
 - Must have "Instagram Basic Display" product under app (Only available on app with type "consumer")
 
-## Keep In Mind
-
-- The Instagram tokens must be renewed by making a request to the following:<br>
-https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${access_token}
-
 ## Guide
 
 1. Navigate to developers.facebook.com
@@ -40,3 +35,8 @@ https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&acc
 	- Login with credentials
 
 9. Use token in web app
+
+## Keep In Mind
+
+- The Instagram tokens must be renewed by making a request to the following:<br>
+https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${access_token}
