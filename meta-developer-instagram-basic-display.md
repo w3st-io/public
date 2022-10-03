@@ -48,5 +48,5 @@ replace "${access_token}" with actual access token.
 
 ### Alternative Method
 
-Set up a Instgram auto token refresher using something like [instagram-token-agent](https://github.com/companionstudio/instagram-token-agent)
+Set up a Instagram auto token refresher using something like [instagram-token-agent](https://github.com/companionstudio/instagram-token-agent)
 
