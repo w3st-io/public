@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Must have an app set up under [Meta Developers](https://developers.facebook.com/){:target="blank"}
+- Must have an app set up under [Meta Developers](https://developers.facebook.com/)
 - Must have “Instagram Basic Display” product under app (Only on consumer app)
 
 ## Keep In Mind
