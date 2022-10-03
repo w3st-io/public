@@ -38,5 +38,15 @@
 
 ## Keep In Mind
 
-- The Instagram tokens must be renewed by making a request to the following:<br>
+### Default Method
+
+The Instagram tokens must be renewed by making a request to the following:
+
 https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${access_token}
+
+replace "${access_token}" with actual access token.
+
+### Alternative Method
+
+Set up a Instgram auto token refresher using something like [instagram-token-agent](https://github.com/companionstudio/instagram-token-agent)
+
